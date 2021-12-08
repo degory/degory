@@ -1,16 +1,26 @@
-### Hi there 👋
+repositories for the ghūl programming language, its compiler and supporting tools
 
-<!--
-**degory/degory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [ghul](https://github.com/degory/ghul)
+[ghūl compiler](https://ghul.io) packaged as a .NET tool
 
-Here are some ideas to get you started:
+# [ghul-targets](https://github.com/degory/ghul-targets)
+default MSBuild props and targets for building ghūl applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# [ghul-runtime](https://github.com/degory/ghul-runtime)
+low level dependencies required by all ghūl applications
+
+# [ghul-pipes](https://github.com/degory/ghul-pipes)
+implementation of the | operator and filter(), map(), reduce() etc.
+
+# [ghul-console-template](https://github.com/degory/ghul-pipes)
+a template for the .NET new command, which creates a new ghūl console application
+
+# [ghul-repository-template](https://github.com/degory/ghul-repository-template]
+a template for creating a new ghūl project repository on GitHub
+
+# [ghul-vsce](https://github.com/degory/ghul-vsce]
+a Visual Studio Code extension providing ghūl language support
+
+# [ghul-test](https://github.com/degory/ghul-test]
+a snapshot based integration testing framework used by the ghūl
+
