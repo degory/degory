@@ -12,7 +12,7 @@ low level dependencies required by all ghūl applications
 ## [ghul-pipes](https://github.com/degory/ghul-pipes)
 implementation of the | operator and filter(), map(), reduce() etc.
 
-## [ghul-console-template](https://github.com/degory/ghul-pipes)
+## [ghul-templates](https://github.com/degory/ghul-templates)
 a template for the .NET new command, which creates a new ghūl console application
 
 ## [ghul-repository-template](https://github.com/degory/ghul-repository-template)
