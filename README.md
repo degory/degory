@@ -21,6 +21,6 @@ a template for creating a new ghūl project repository on GitHub
 ## [ghul-vsce](https://github.com/degory/ghul-vsce)
 a Visual Studio Code extension providing ghūl language support
 
-## [ghul-test](https://github.com/degory/ghul-test])
+## [ghul-test](https://github.com/degory/ghul-test)
 a snapshot based integration testing framework used by the ghūl
 
