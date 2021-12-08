@@ -1,7 +1,7 @@
 # repositories for the ghūl programming language, its compiler and supporting tools
 
 ## [ghul](https://github.com/degory/ghul)
-[ghūl compiler](https://ghul.io) packaged as a .NET tool
+Compiler for the [ghūl programming language](https://ghul.io)
 
 ## [ghul-targets](https://github.com/degory/ghul-targets)
 default MSBuild props and targets for building ghūl applications
