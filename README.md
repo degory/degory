@@ -1,6 +1,15 @@
 # repositories for the ghūl programming language, its compiler and supporting tools
 
 ## [ghul](https://github.com/degory/ghul)
+
+[![CI/CD](https://img.shields.io/github/workflow/status/degory/ghul/CI)](https://github.com/degory/ghul/actions?query=workflow%3ACICD)
+[![NuGet version (ghul)](https://img.shields.io/nuget/v/ghul.compiler.svg)](https://www.nuget.org/packages/ghul.compiler/)
+[![Release](https://img.shields.io/github/v/release/degory/ghul?label=release)](https://github.com/degory/ghul/releases)
+[![Release Date](https://img.shields.io/github/release-date/degory/ghul)](https://github.com/degory/ghul/releases)
+[![Issues](https://img.shields.io/github/issues/degory/ghul)](https://github.com/degory/ghul/issues) 
+[![License](https://img.shields.io/github/license/degory/ghul)](https://github.com/degory/ghul/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+
 Compiler for the [ghūl programming language](https://ghul.io)
 
 ## [ghul-targets](https://github.com/degory/ghul-targets)
