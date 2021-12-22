@@ -38,8 +38,6 @@ low level dependencies required by all ghūl applications
 
 ## [ghul-pipes](https://github.com/degory/ghul-pipes)
 
-# ghul-pipes
-
 [![CI/CD](https://img.shields.io/github/workflow/status/degory/ghul-pipes/CI)](https://github.com/degory/ghul-pipes/actions?query=workflow%3ACI)
 [![NuGet version (ghul.pipes)](https://img.shields.io/nuget/v/ghul.pipes.svg)](https://www.nuget.org/packages/ghul.pipes/)
 [![Release](https://img.shields.io/github/v/release/degory/ghul-pipes?label=release)](https://github.com/degory/ghul-pipes/releases)
