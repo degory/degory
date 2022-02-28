@@ -10,7 +10,7 @@
 [![License](https://img.shields.io/github/license/degory/ghul)](https://github.com/degory/ghul/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
 
-Compiler for the [ghūl programming language](https://ghul.io)
+compiler for the [ghūl programming language](https://ghul.io)
 
 ## [ghul-targets](https://github.com/degory/ghul-targets)
 
@@ -22,7 +22,7 @@ Compiler for the [ghūl programming language](https://ghul.io)
 [![License](https://img.shields.io/github/license/degory/ghul-targets)](https://github.com/degory/ghul-targets/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
 
-default MSBuild props and targets for building ghūl applications
+MSBuild props and targets for building ghūl applications
 
 ## [ghul-runtime](https://github.com/degory/ghul-runtime)
 
@@ -45,7 +45,7 @@ low level dependencies required by all ghūl applications
 [![Issues](https://img.shields.io/github/issues/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/blob/main/LICENSE)
 
-Provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.io)
+provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.io)
 
 ## [ghul-templates](https://github.com/degory/ghul-templates)
 
@@ -57,7 +57,7 @@ Provides implementations of the [pipe operator and filter, map and reduce functi
 [![License](https://img.shields.io/github/license/degory/ghul-templates)](https://github.com/degory/ghul-templates/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
 
-a template for the .NET new command, which creates a new ghūl console application
+templates for the .NET new command which create new ghūl console application and class library projects
 
 ## [ghul-repository-template](https://github.com/degory/ghul-repository-template)
 
@@ -83,5 +83,4 @@ a Visual Studio Code extension providing ghūl language support
 [![License](https://img.shields.io/github/license/degory/ghul-test)](https://github.com/degory/ghul-test/blob/main/LICENSE)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
 
-a snapshot based integration testing framework used by the ghūl
-
+a snapshot based integration testing framework used by the ghūl compiler project
