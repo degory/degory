@@ -8,9 +8,9 @@
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul)](https://github.com/degory/ghul/releases)
 [![Issues](https://img.shields.io/github/issues/degory/ghul)](https://github.com/degory/ghul/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul)](https://github.com/degory/ghul/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
-compiler for the [ghūl programming language](https://ghul.io)
+compiler for the [ghūl programming language](https://ghul.dev)
 
 ## [ghul-targets](https://github.com/degory/ghul-targets)
 
@@ -21,7 +21,7 @@ compiler for the [ghūl programming language](https://ghul.io)
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul-targets)](https://github.com/degory/ghul-targets/releases)
 [![Issues](https://img.shields.io/github/issues/degory/ghul-targets)](https://github.com/degory/ghul-targets/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-targets)](https://github.com/degory/ghul-targets/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 MSBuild props and targets for building ghūl applications
 
@@ -33,7 +33,7 @@ MSBuild props and targets for building ghūl applications
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul-runtime)](https://github.com/degory/ghul-runtime/releases) 
 [![Issues](https://img.shields.io/github/issues/degory/ghul-runtime)](https://github.com/degory/ghul-runtime/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-runtime)](https://github.com/degory/ghul-runtime/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 low level dependencies required by all ghūl applications
 
@@ -46,7 +46,7 @@ low level dependencies required by all ghūl applications
 [![Issues](https://img.shields.io/github/issues/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/blob/main/LICENSE)
 
-provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.io)
+provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.dev)
 
 ## [ghul-templates](https://github.com/degory/ghul-templates)
 
@@ -56,7 +56,7 @@ provides implementations of the [pipe operator and filter, map and reduce functi
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul-templates)](https://github.com/degory/ghul-templates/releases) 
 [![Issues](https://img.shields.io/github/issues/degory/ghul-templates)](https://github.com/degory/ghul-templates/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-templates)](https://github.com/degory/ghul-templates/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 templates for the .NET new command which create new ghūl console application and class library projects
 
@@ -67,7 +67,7 @@ templates for the .NET new command which create new ghūl console application an
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul-repository-template)](https://github.com/degory/ghul-repository-template/releases) 
 [![Issues](https://img.shields.io/github/issues/degory/ghul-repository-template)](https://github.com/degory/ghul-repository-template/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-repository-template)](https://github.com/degory/ghul-repository-template/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 a template for creating a new ghūl project repository on GitHub
 
@@ -82,6 +82,6 @@ a Visual Studio Code extension providing ghūl language support
 [![Release Date](https://img.shields.io/github/release-date/degory/ghul-test)](https://github.com/degory/ghul-test/releases)
 [![Issues](https://img.shields.io/github/issues/degory/ghul-test)](https://github.com/degory/ghul-test/issues) 
 [![License](https://img.shields.io/github/license/degory/ghul-test)](https://github.com/degory/ghul-test/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.io)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 a snapshot based integration testing framework used by the ghūl compiler project
