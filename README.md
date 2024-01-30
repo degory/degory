@@ -12,8 +12,21 @@
 
 compiler for the [ghūl programming language](https://ghul.dev)
 
-## [ghul-targets](https://github.com/degory/ghul-targets)
 
+## [ghul-vsce](https://github.com/degory/ghul-vsce)
+
+[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-vsce/CICD.yaml?branch=main)](https://github.com/degory/ghul-vsce/actions/workflows/CICD.yaml?query=branch%3Amain)
+[![Visual Studio Marketplace](https://img.shields.io/visual-studio-marketplace/v/degory.ghul)](https://marketplace.visualstudio.com/items?itemName=degory.ghul)
+[![Release](https://img.shields.io/github/v/release/degory/ghul-vsce?label=release)](https://github.com/degory/ghul-vsce/releases)
+[![Release Date](https://img.shields.io/github/release-date/degory/ghul-vsce)](https://github.com/degory/ghul-vsce/releases)
+[![Issues](https://img.shields.io/github/issues/degory/ghul-vsce)](https://github.com/degory/ghul-vsce/issues)
+[![License](https://img.shields.io/github/license/degory/ghul-vsce)](https://github.com/degory/ghul-vsce/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
+
+a Visual Studio Code extension providing ghūl language support
+
+
+## [ghul-targets](https://github.com/degory/ghul-targets)
 
 [![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-targets/cicd.yml?branch=main)](https://github.com/degory/ghul-targets/actions?query=workflow%3ACICD)
 [![NuGet version (ghul.targets)](https://img.shields.io/nuget/v/ghul.targets.svg)](https://www.nuget.org/packages/ghul.targets/)
@@ -24,6 +37,7 @@ compiler for the [ghūl programming language](https://ghul.dev)
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 MSBuild props and targets for building ghūl applications
+
 
 ## [ghul-runtime](https://github.com/degory/ghul-runtime)
 
@@ -37,6 +51,7 @@ MSBuild props and targets for building ghūl applications
 
 low level dependencies required by all ghūl applications
 
+
 ## [ghul-pipes](https://github.com/degory/ghul-pipes)
 
 [![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-pipes/cicd.yml?branch=main)](https://github.com/degory/ghul-pipes/actions?query=workflow%3ACI)
@@ -47,6 +62,7 @@ low level dependencies required by all ghūl applications
 [![License](https://img.shields.io/github/license/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/blob/main/LICENSE)
 
 provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.dev)
+
 
 ## [ghul-templates](https://github.com/degory/ghul-templates)
 
@@ -60,6 +76,7 @@ provides implementations of the [pipe operator and filter, map and reduce functi
 
 templates for the .NET new command which create new ghūl console application and class library projects
 
+
 ## [ghul-repository-template](https://github.com/degory/ghul-repository-template)
 
 [![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-repository-template/cicd.yml?branch=main)](https://github.com/degory/ghul-repository-template/actions?query=workflow%3ACICD)
@@ -71,8 +88,6 @@ templates for the .NET new command which create new ghūl console application an
 
 a template for creating a new ghūl project repository on GitHub
 
-## [ghul-vsce](https://github.com/degory/ghul-vsce)
-a Visual Studio Code extension providing ghūl language support
 
 ## [ghul-test](https://github.com/degory/ghul-test)
 
