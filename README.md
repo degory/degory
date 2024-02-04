@@ -1,3 +1,6 @@
+
+<img src="https://github.com/degory/ghul/blob/be2948a357fb5b664ddadf548facf97b13fed44a/images/ghul-logo-icon.png" alt="ghūl language logo" width="100"/>
+
 # repositories for the ghūl programming language, its compiler and supporting tools
 
 ## [ghul](https://github.com/degory/ghul)
