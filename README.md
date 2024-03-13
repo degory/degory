@@ -29,19 +29,6 @@ compiler for the [ghūl programming language](https://ghul.dev)
 a Visual Studio Code extension providing ghūl language support
 
 
-## [ghul-targets](https://github.com/degory/ghul-targets)
-
-[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-targets/cicd.yml?branch=main)](https://github.com/degory/ghul-targets/actions?query=workflow%3ACICD)
-[![NuGet version (ghul.targets)](https://img.shields.io/nuget/v/ghul.targets.svg)](https://www.nuget.org/packages/ghul.targets/)
-[![Release](https://img.shields.io/github/v/release/degory/ghul-targets?label=release)](https://github.com/degory/ghul-targets/releases)
-[![Release Date](https://img.shields.io/github/release-date/degory/ghul-targets)](https://github.com/degory/ghul-targets/releases)
-[![Issues](https://img.shields.io/github/issues/degory/ghul-targets)](https://github.com/degory/ghul-targets/issues) 
-[![License](https://img.shields.io/github/license/degory/ghul-targets)](https://github.com/degory/ghul-targets/blob/main/LICENSE)
-[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
-
-MSBuild props and targets for building ghūl applications
-
-
 ## [ghul-runtime](https://github.com/degory/ghul-runtime)
 
 [![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-runtime/cicd.yml?branch=main)](https://github.com/degory/ghul-runtime/actions?query=workflow%3ACICD)
@@ -53,18 +40,6 @@ MSBuild props and targets for building ghūl applications
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 low level dependencies required by all ghūl applications
-
-
-## [ghul-pipes](https://github.com/degory/ghul-pipes)
-
-[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-pipes/cicd.yml?branch=main)](https://github.com/degory/ghul-pipes/actions?query=workflow%3ACI)
-[![NuGet version (ghul.pipes)](https://img.shields.io/nuget/v/ghul.pipes.svg)](https://www.nuget.org/packages/ghul.pipes/)
-[![Release](https://img.shields.io/github/v/release/degory/ghul-pipes?label=release)](https://github.com/degory/ghul-pipes/releases)
-[![Release Date](https://img.shields.io/github/release-date/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/releases)
-[![Issues](https://img.shields.io/github/issues/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/issues) 
-[![License](https://img.shields.io/github/license/degory/ghul-pipes)](https://github.com/degory/ghul-pipes/blob/main/LICENSE)
-
-provides implementations of the [pipe operator and filter, map and reduce functions](https://github.com/degory/ghul-pipes-examples/blob/main/src/ghul-pipes-examples.ghul) for the [ghūl programming language](https://ghul.dev)
 
 
 ## [ghul-templates](https://github.com/degory/ghul-templates)
