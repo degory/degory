@@ -78,3 +78,19 @@ a template for creating a new ghūl project repository on GitHub
 [![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
 
 a snapshot based integration testing framework used by the ghūl compiler project
+
+## [ghul-examples](https://github.com/degory/ghul-examples)
+
+[![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-examples/ci.yml)](https://github.com/degory/ghul-examples/actions?query=workflow%3ACI)
+[![Issues](https://img.shields.io/github/issues/degory/ghul-examples)](https://github.com/degory/ghul-examples/issues) 
+[![License](https://img.shields.io/github/license/degory/ghul-examples)](https://github.com/degory/ghul-examples/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
+
+ghūl programming language examples
+
+## [ghul-dev](https://github.com/degory/ghul-dev)
+
+[![Issues](https://img.shields.io/github/issues/degory/ghul-dev)](https://github.com/degory/ghul-dev/issues) 
+[![License](https://img.shields.io/github/license/degory/ghul-dev)](https://github.com/degory/ghul-dev/blob/main/LICENSE)
+
+ghūl programming language [website](https://ghul.dev)
