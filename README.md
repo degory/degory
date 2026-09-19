@@ -79,6 +79,36 @@ a template for creating a new ghūl project repository on GitHub
 
 a snapshot based integration testing framework used by the ghūl compiler project
 
+## [ghul-cli](https://github.com/degory/ghul-cli)
+
+[![CI](https://img.shields.io/github/actions/workflow/status/degory/ghul-cli/ci.yml?branch=main)](https://github.com/degory/ghul-cli/actions/workflows/ci.yml?query=branch%3Amain)
+[![NuGet version (ghul.cli)](https://img.shields.io/nuget/v/ghul.cli.svg?label=ghul.cli)](https://www.nuget.org/packages/ghul.cli/)
+[![NuGet version (ghul.repl)](https://img.shields.io/nuget/v/ghul.repl.svg?label=ghul.repl)](https://www.nuget.org/packages/ghul.repl/)
+[![NuGet version (ghul.repl.host)](https://img.shields.io/nuget/v/ghul.repl.host.svg?label=ghul.repl.host)](https://www.nuget.org/packages/ghul.repl.host/)
+[![NuGet version (ghul.jupyter)](https://img.shields.io/nuget/v/ghul.jupyter.svg?label=ghul.jupyter)](https://www.nuget.org/packages/ghul.jupyter/)
+[![License](https://img.shields.io/github/license/degory/ghul-cli)](https://github.com/degory/ghul-cli/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
+
+the `ghul` command: runs a ghūl script directly, including from a `#!` line, and starts a REPL. Also the REPL session library and a Jupyter kernel
+
+## [ghul-mcp](https://github.com/degory/ghul-mcp)
+
+[![CI](https://img.shields.io/github/actions/workflow/status/degory/ghul-mcp/ci.yml?branch=main)](https://github.com/degory/ghul-mcp/actions/workflows/ci.yml?query=branch%3Amain)
+[![NuGet version (ghul.mcp)](https://img.shields.io/nuget/v/ghul.mcp.svg)](https://www.nuget.org/packages/ghul.mcp/)
+[![License](https://img.shields.io/github/license/degory/ghul-mcp)](https://github.com/degory/ghul-mcp/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
+
+an MCP server that answers questions about ghūl code from the compiler's analysis mode, for AI coding agents
+
+## [ghul-raster](https://github.com/degory/ghul-raster)
+
+[![CI](https://img.shields.io/github/actions/workflow/status/degory/ghul-raster/cicd.yml?branch=main)](https://github.com/degory/ghul-raster/actions/workflows/cicd.yml?query=branch%3Amain)
+[![NuGet version (ghul.raster)](https://img.shields.io/nuget/v/ghul.raster.svg)](https://www.nuget.org/packages/ghul.raster/)
+[![License](https://img.shields.io/github/license/degory/ghul-raster)](https://github.com/degory/ghul-raster/blob/main/LICENSE)
+[![ghūl](https://img.shields.io/badge/gh%C5%ABl-100%25!-information)](https://ghul.dev)
+
+draws into a PNG from ghūl, in managed code, with no native graphics library
+
 ## [ghul-examples](https://github.com/degory/ghul-examples)
 
 [![CI/CD](https://img.shields.io/github/actions/workflow/status/degory/ghul-examples/ci.yml)](https://github.com/degory/ghul-examples/actions?query=workflow%3ACI)
